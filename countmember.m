@@ -1,3 +1,5 @@
+%nppalani - downloaded from Mathworks. Original license applies to this code.
+
 function COUNT = countmember(A,B)
 % COUNTMEMBER - count members
 %
